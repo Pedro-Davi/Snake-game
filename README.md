@@ -1,2 +1,2 @@
-# Sucuri
+# Snake game
 Snake game animation
